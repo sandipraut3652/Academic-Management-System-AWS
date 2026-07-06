@@ -1,4 +1,4 @@
-ScholarPoint – AWS Powered Academic Management Portal
+Eduportal – AWS Powered Academic Management Portal
 
 📌 Overview
 
